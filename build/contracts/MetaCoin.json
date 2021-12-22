@@ -337,7 +337,7 @@
                           "name": "tx",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 176,
+                          "referencedDeclaration": 240,
                           "src": "527:2:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_transaction",
@@ -468,7 +468,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 164,
+                          "referencedDeclaration": 228,
                           "src": "650:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -582,7 +582,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 164,
+                          "referencedDeclaration": 228,
                           "src": "697:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -724,7 +724,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 164,
+                          "referencedDeclaration": 228,
                           "src": "768:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -1607,7 +1607,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 176,
+                                      "referencedDeclaration": 240,
                                       "type": "tx",
                                       "value": "tx"
                                     },
@@ -1835,7 +1835,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 164,
+                                      "referencedDeclaration": 228,
                                       "type": "msg",
                                       "value": "msg"
                                     },
@@ -1959,7 +1959,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 164,
+                                      "referencedDeclaration": 228,
                                       "type": "msg",
                                       "value": "msg"
                                     },
@@ -2143,7 +2143,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 164,
+                                  "referencedDeclaration": 228,
                                   "type": "msg",
                                   "value": "msg"
                                 },
@@ -2639,8 +2639,7 @@
     }
   },
   "schemaVersion": "3.4.4",
-  "updatedAt": "2021-12-21T23:59:20.234Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-12-22T00:21:39.830Z",
   "devdoc": {
     "methods": {}
   },
